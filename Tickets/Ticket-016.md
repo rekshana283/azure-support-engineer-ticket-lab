@@ -19,6 +19,7 @@ The customer said their web application was working normally earlier, but sudden
 The application was hosted on Azure App Service and the database was hosted on Azure SQL Database.
 
 ---
+![Azure App Service and Azure SQL Architecture](../Images/azure-app-service-sql-architecture.png)
 
 ## What I Checked
 
