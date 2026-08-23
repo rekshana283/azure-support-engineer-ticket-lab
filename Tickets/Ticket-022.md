@@ -19,6 +19,7 @@ The customer reported that their application was unable to connect to the Azure 
 The application was running, but database requests were failing with a connection timeout.
 
 ---
+![Azure App Service and Azure SQL Architecture](../Images/azure-app-service-sql-architecture.png)
 
 ## What I Checked
 
