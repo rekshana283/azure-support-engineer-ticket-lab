@@ -17,6 +17,7 @@
 The customer reported that their application on an Azure VM was becoming slow and some operations were failing.
 
 ---
+![Azure VM Monitoring and Storage Architecture](../Images/azure-vm-monitoring-storage-architecture.png)
 
 ## What I Checked
 
