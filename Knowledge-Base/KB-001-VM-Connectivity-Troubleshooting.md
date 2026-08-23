@@ -5,6 +5,7 @@
 This knowledge base article provides a structured troubleshooting approach for Azure Virtual Machines that cannot be accessed through Remote Desktop Protocol (RDP) or other network connections.
 
 ---
+![Azure VM Connectivity Architecture](../Images/azure-vm-connectivity-architecture.png)
 
 ## Common Symptoms
 
